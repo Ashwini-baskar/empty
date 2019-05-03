@@ -1,0 +1,6 @@
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Data\Project\Internal\EmployeePortal\Application\EmployeePortalV10\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
